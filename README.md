@@ -6,6 +6,7 @@
 </h1>
 
 ### :man_technologist: About Me:
+I'm a very regular trade school student from Russia. I'm studying to be a system administrator and I like video games!
 - 👀 I’m interested in Linux, Android, English.
 - 🌱 I’m currently learning Git, Linux.
 
